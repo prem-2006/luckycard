@@ -1,4 +1,4 @@
-<img width="1346" height="613" alt="image" src="https://github.com/user-attachments/assets/77758a19-e486-4bbb-a987-085982edfd0b" /># 🎴 Lucky Card (Flare Coston2)
+
 ## 🔗 Contract Address
 `0x270455692EFc56c5A88e946194be5C3E2A7dc29c`  
 Explorer Ref: https://coston2-explorer.flare.network/address/0x270455692EFc56c5A88e946194be5C3E2A7dc29c
