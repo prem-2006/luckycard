@@ -1,5 +1,5 @@
 # 🎴 Lucky Card (Flare Coston2)
-
+https://coston2-explorer.flare.network//tx/0xca08ab7cf8decaee21049f834881da943039d7d5ce30a9e50a3e97e8f5d2276a
 ## 🔗 Contract Address
 `0x270455692EFc56c5A88e946194be5C3E2A7dc29c`  
 Explorer Ref: **Flare Coston2**
