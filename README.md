@@ -1,8 +1,12 @@
-# 🎴 Lucky Card (Flare Coston2)
-https://coston2-explorer.flare.network//tx/0xca08ab7cf8decaee21049f834881da943039d7d5ce30a9e50a3e97e8f5d2276a
+<img width="1346" height="613" alt="image" src="https://github.com/user-attachments/assets/77758a19-e486-4bbb-a987-085982edfd0b" /># 🎴 Lucky Card (Flare Coston2)
 ## 🔗 Contract Address
 `0x270455692EFc56c5A88e946194be5C3E2A7dc29c`  
-Explorer Ref: **Flare Coston2**
+Explorer Ref: https://coston2-explorer.flare.network/address/0x270455692EFc56c5A88e946194be5C3E2A7dc29c
+
+<img width="1346" height="613" alt="image" src="https://github.com/user-attachments/assets/e6a04868-c6e8-47a9-b02f-0e33fb7d0a1f" />
+
+
+
 
 ## 📌 Overview
 **Lucky Card** is a beginner-friendly decentralized application deployed on **Flare Coston2 Testnet** that allows users to draw a random lucky card from a predefined collection stored entirely inside the smart contract. The contract is deployed without requiring any constructor parameters, enabling a frictionless deployment and interaction experience.
